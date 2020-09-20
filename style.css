@@ -13,14 +13,14 @@ img{
     opacity: 100%;
 }
 
-.padding{
-    padding-top: 20px;
-}
 
 
-
-#margin{
-    margin-top: 20px;
+.margin{
+    margin-top: 50px;
     
 }
 
+
+.font{
+    font-size: large;
+}
