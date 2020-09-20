@@ -1,0 +1,17 @@
+#bg{
+    background-image: url("https://lh3.googleusercontent.com/proxy/tXHlgKqyqAREQIcbOtgpHC_bLONmvAU0R13NKdUFw_2lrOH94FElp7Xstc8MnDZSe4YPs4fwROhfM_kIxxYeLLoHw0bVdWaTLGJ4FGKwjw8tuGx4ZFI_nHyONrumRYQ");
+}
+
+.opacity{
+    opacity: .7;
+    font-weight: bolder;
+    color: black;
+}
+
+.dark{
+    color:black
+}
+
+img{
+    opacity: 100%;
+}
