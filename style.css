@@ -25,6 +25,9 @@ img{
     font-size: large;
 }
 
+.height {
+    max-height: 500px;
+}
 
 
 
